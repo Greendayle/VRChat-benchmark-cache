@@ -19,7 +19,7 @@ https://vrchat.com/home/world/wrld_7786c206-d0e2-49c2-856d-a3aa018b2b94
 
 ## Build your world. Empty:
 
-Shows, how optimised worlds differ between CPUs
+Shows, how optimised worlds, without much udon or dynamic objects differ between CPUs
 
 5800X3D average CPU frametimes: 1.68+-0.13 ms, 95 percentile: 1.90 ms, 99 percentile: 2.10 ms
 
