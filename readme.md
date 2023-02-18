@@ -19,6 +19,8 @@ https://vrchat.com/home/world/wrld_7786c206-d0e2-49c2-856d-a3aa018b2b94
 
 ## Build your world. Empty:
 
+Shows, how optimised worlds differ between CPUs
+
 5800X3D average CPU frametimes: 1.68+-0.13 ms, 95 percentile: 1.90 ms, 99 percentile: 2.10 ms
 
 5800X average CPU frametimes: 1.67+-0.20 ms, 95 percentile: 1.90 ms, 99 percentile: 2.10 ms
@@ -31,6 +33,8 @@ https://vrchat.com/home/world/wrld_7786c206-d0e2-49c2-856d-a3aa018b2b94
 
 
 ## Build your world. Full of objects, spawn:
+
+Shows, how world with many pickups differ between CPUs
 
 5800X3D average CPU frametimes: 2.22+-0.24 ms, 95 percentile: 2.50 ms, 99 percentile: 2.70 ms
 
@@ -45,6 +49,8 @@ https://vrchat.com/home/world/wrld_7786c206-d0e2-49c2-856d-a3aa018b2b94
 
 
 ## Build your world. Full of objects, standing on a collider:
+
+Shows, how world with many pickups differ between CPUs
 
 5800X3D average CPU frametimes: 2.21+-0.24 ms, 95 percentile: 2.50 ms, 99 percentile: 2.90 ms
 
@@ -63,6 +69,8 @@ https://vrchat.com/home/world/wrld_9e4737d6-76df-4e01-a065-f997ec031cd5
 
 ## Avatar museum, standing in the middle (2 rooms visible)
 
+Shows how world with many static objects and materials differ per CPU
+
 5800X3D average CPU frametimes: 3.71+-0.39 ms, 95 percentile: 4.10 ms, 99 percentile: 4.76 ms
 
 5800X average CPU frametimes: 13.07+-2.10 ms, 95 percentile: 16.50 ms, 99 percentile: 16.87 ms
@@ -77,6 +85,8 @@ https://vrchat.com/home/world/wrld_9e4737d6-76df-4e01-a065-f997ec031cd5
 
 
 ## Avatar museum, spawn (1 room visible)
+
+Shows how world with many static objects and materials differ per CPU
 
 
 5800X3D average CPU frametimes: 2.56+-0.18 ms, 95 percentile: 2.90 ms, 99 percentile: 3.10 ms
@@ -100,6 +110,8 @@ https://vrchat.com/home/world/wrld_f466709e-f226-478f-a598-b8a4ba52aa70
 
 ## Train world, watching the wagons
 
+Shows how world with many objects and udon scripts differ per CPU
+
 5800X3D average CPU frametimes: 8.82+-2.67 ms, 95 percentile: 12.30 ms, 99 percentile: 13.97 ms
 
 5800X average CPU frametimes: 27.66+-4.85 ms, 95 percentile: 35.20 ms, 99 percentile: 37.00 ms
@@ -115,6 +127,8 @@ https://vrchat.com/home/world/wrld_f466709e-f226-478f-a598-b8a4ba52aa70
 
 ## Train world, watching the city (away from wagons)
 
+Shows how world with many objects and udon scripts differ per CPU
+
 5800X3D average CPU frametimes: 8.62+-2.54 ms, 95 percentile: 11.70 ms, 99 percentile: 12.70 ms
 
 5800X average CPU frametimes: 26.76+-4.91 ms, 95 percentile: 33.70 ms, 99 percentile: 35.01 ms
@@ -129,6 +143,8 @@ https://vrchat.com/home/world/wrld_f466709e-f226-478f-a598-b8a4ba52aa70
 
 
 ## Train world. Started the train, driving away at full speed without wagons, looking forward.
+
+Shows how world with many objects and udon scripts differ per CPU
 
 5800X3D average CPU frametimes: 7.22+-2.47 ms, 95 percentile: 12.00 ms, 99 percentile: 15.70 ms
 
@@ -150,6 +166,8 @@ https://vrchat.com/home/world/wrld_6caf5200-70e1-46c2-b043-e3c4abe69e0f
 
 ## The Great Pug, stage area, big group of people in view
 
+Shows how optimised world with many avatars differs per CPU
+
 5800X3D average CPU frametimes: 13.90+-3.43 ms, 95 percentile: 18.80 ms, 99 percentile: 22.56 ms
 
 5800X average CPU frametimes: 30.25+-5.11 ms, 95 percentile: 37.77 ms, 99 percentile: 39.64 ms
@@ -167,6 +185,8 @@ https://vrchat.com/home/world/wrld_6caf5200-70e1-46c2-b043-e3c4abe69e0f
 https://vrchat.com/home/world/wrld_b2d9f284-3a77-4a8a-a58e-f8427f87ba79
 
 ## Just B Club 3, spawn, big group of avatars in view:
+
+Shows how optimised world with udon and many avatars differs per CPU
 
 5800X3D average CPU frametimes: 12.39+-3.18 ms, 95 percentile: 17.00 ms, 99 percentile: 19.77 ms
 
