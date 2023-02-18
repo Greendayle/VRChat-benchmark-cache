@@ -64,8 +64,11 @@ https://vrchat.com/home/world/wrld_9e4737d6-76df-4e01-a065-f997ec031cd5
 ## Avatar museum, standing in the middle (2 rooms visible)
 
 5800X3D average CPU frametimes: 3.71+-0.39 ms, 95 percentile: 4.10 ms, 99 percentile: 4.76 ms
+
 5800X average CPU frametimes: 13.07+-2.10 ms, 95 percentile: 16.50 ms, 99 percentile: 16.87 ms
+
 5800X3D average CPU FPS: 269.49+-18.56 FPS, 95 percentile: 243.90 FPS, 99 percentile: 210.04 FPS
+
 5800X average CPU FPS: 76.48+-12.71 FPS, 95 percentile: 60.61 FPS, 99 percentile: 59.28 FPS
 
 
