@@ -185,3 +185,10 @@ https://vrchat.com/home/world/wrld_b2d9f284-3a77-4a8a-a58e-f8427f87ba79
 It also has and has WAY smaller frametiming variance.
 
 Big CPU cache is really important when there is many dynamic objects or avatars on screen.
+
+![plot](./summary.png)
+
+
+# Disclosure of conflict of interest
+
+I've bought 5600X and then upgraded to 5800X3D, this was done to silence my looming buyers remorse, which was false.
