@@ -9,9 +9,9 @@ To alleviate this, we consider only CPU frame times to eliminate error.
 Frame timings were found using FPSVR.
 
 # Hardware 
-Person A: Valve Index, Nvidia 3090, AMD Ryzen 5800X
+Person A: Valve Index, Nvidia 3090, AMD Ryzen 5800X, MB: MSI B550 PRO-A
 
-Person B: Vive Pro 2, Nividia 3080, AMD Ryzen 5800X3D
+Person B: Vive Pro 2, Nividia 3080, AMD Ryzen 5800X3D, MB: Gigabyte B550M DS3H
 
 Resolution matched to 2500 x 2500 pixels per eye. 
 
