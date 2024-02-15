@@ -1,6 +1,6 @@
 # Comparison of 7800x3d and 5800x3d
 
-3 people
+3 people, going to the same worlds, standing in the same spot, looking at the same direction, recording CPU frametimes using FPSVR
 
 1st 5800x3d, RTX 3080, Vive Pro 2 - joined worlds first - master
 2nd 5800x3d, RTX 3090, Index
@@ -17,6 +17,7 @@ Benchmark date 2024-02-15
 
 https://vrchat.com/home/world/wrld_141db797-567c-4dc0-bbdc-df50ec61b7c2
 
+private instance
 
 5800X3D-master average CPU frametimes: 1.72+-0.13 ms, 95 percentile: 1.90 ms, 99 percentile: 2.10 ms
 
@@ -42,6 +43,8 @@ https://vrchat.com/home/world/wrld_141db797-567c-4dc0-bbdc-df50ec61b7c2
 
 https://vrchat.com/home/world/wrld_9e4737d6-76df-4e01-a065-f997ec031cd5
 
+private instance
+
 5800X3D-master average CPU frametimes: 9.28+-1.82 ms, 95 percentile: 11.80 ms, 99 percentile: 13.90 ms
 
 5800X3D-master average CPU FPS: 107.75+-22.42 FPS, 95 percentile: 84.75 FPS, 99 percentile: 71.94 FPS
@@ -61,6 +64,8 @@ https://vrchat.com/home/world/wrld_9e4737d6-76df-4e01-a065-f997ec031cd5
 ![plot](./img/Avatar-Museum-7_histogram.png)
 
 ## Train World 1
+
+private instance
 
 5800X3D-master average CPU frametimes: 7.35+-1.06 ms, 95 percentile: 9.20 ms, 99 percentile: 11.20 ms
 
@@ -83,6 +88,8 @@ https://vrchat.com/home/world/wrld_9e4737d6-76df-4e01-a065-f997ec031cd5
 ## Train Wold 2 (train hell)
 
 https://vrchat.com/home/world/wrld_8313f004-7ddc-4bd6-9f56-4ba52f8618e4
+
+private instance
 
 5800X3D-master average CPU frametimes: 23.64+-1.96 ms, 95 percentile: 27.20 ms, 99 percentile: 29.40 ms
 
