@@ -1,6 +1,6 @@
 # Comparison of 7800x3d and 5800x3d
 
-3 people, going to the same worlds, standing in the same spot, looking at the same direction, recording CPU frametimes using FPSVR
+3 people, going to the same worlds in VR, standing in the same spot, looking at the same direction, recording CPU frametimes using FPSVR
 
 - 1st 5800x3d, RTX 3080, Vive Pro 2 - joined worlds first - master
 - 2nd 5800x3d, RTX 3090, Index
