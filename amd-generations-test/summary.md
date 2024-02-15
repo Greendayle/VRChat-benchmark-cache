@@ -54,6 +54,12 @@ https://vrchat.com/home/world/wrld_9e4737d6-76df-4e01-a065-f997ec031cd5
 
 7800X3D average CPU FPS: 233.74+-11.82 FPS, 95 percentile: 212.77 FPS, 99 percentile: 204.08 FPS
 
+![plot](./img/Avatar-Museum-7_barplot.png)
+
+![plot](./img/Avatar-Museum-7_boxplot.png)
+
+![plot](./img/Avatar-Museum-7_histogram.png)
+
 ## Train World 1
 
 5800X3D-master average CPU frametimes: 7.35+-1.06 ms, 95 percentile: 9.20 ms, 99 percentile: 11.20 ms
