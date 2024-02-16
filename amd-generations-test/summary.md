@@ -161,6 +161,9 @@ public instance, full of people
 
 ![plot](./img/summary_frametimes.png)
 
+### Ignoring weird outliers:
+
+![plot](./img/summary_frametimes_no_outliers.png)
 
 
 
