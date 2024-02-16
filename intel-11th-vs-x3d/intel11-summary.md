@@ -169,6 +169,10 @@ i9-11900KF average CPU FPS: 45.10+-6.70 FPS, 95 percentile: 37.45 FPS, 99 percen
 
 ![plot](./img/summary_frametimes.png)
 
+### Ignoring weird outliers:
+
+![plot](./img/summary_frametimes_no_outliers.png)
+
 
 
 
