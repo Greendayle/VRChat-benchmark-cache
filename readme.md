@@ -14,6 +14,10 @@ Cross generational AMD benchmark 5800x3d vs 7800x3d on new VRChat from 2024
 
 [Read here](https://github.com/Greendayle/VRChat-benchmark-cache/blob/main/amd-generations-test/summary.md)
 
+Additional test Intel i9 11th gen vs 5800x3d
+
+[Read here](https://github.com/Greendayle/VRChat-benchmark-cache/blob/main/intel-11th-vs-x3d/intel11-summary.md)
+
 # Hardware 
 Person A: Valve Index, Nvidia 3090, AMD Ryzen 5800X, MB: MSI B550 PRO-A
 
