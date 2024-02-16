@@ -31,11 +31,11 @@ private instance
 
 7800X3D average CPU FPS: 777.30+-52.90 FPS, 95 percentile: 714.29 FPS, 99 percentile: 666.67 FPS
 
-![plot](./img/Avatar-Museum-7_barplot.png)
+![plot](./img/AVP_World_barplot.png)
 
-![plot](./img/Avatar-Museum-7_boxplot.png)
+![plot](./img/AVP_World_boxplot.png)
 
-![plot](./img/Avatar-Museum-7_histogram.png)
+![plot](./img/AVP_World_histogram.png)
 
 
 
