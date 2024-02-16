@@ -18,6 +18,12 @@ Additional test Intel i9 11th gen vs 5800x3d
 
 [Read here](https://github.com/Greendayle/VRChat-benchmark-cache/blob/main/intel-11th-vs-x3d/intel11-summary.md)
 
+From those 2 tests we can extract one datapoint which is directly comparable:
+
+![plot](./multi_processor_comparison.png)
+
+
+
 # Hardware 
 Person A: Valve Index, Nvidia 3090, AMD Ryzen 5800X, MB: MSI B550 PRO-A
 
