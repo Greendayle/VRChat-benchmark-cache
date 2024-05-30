@@ -209,17 +209,3 @@ This is due to the larger CPU cache being more important when there are many dyn
 # Disclosure of conflict of interest
 
 I've bought 5600X and then upgraded to 5800X3D, this was done to silence my looming buyers remorse, which was false.
-
-# Update
-
-Cross generational AMD benchmark 5800x3d vs 7800x3d on new VRChat from 2024
-
-[Read here](https://github.com/Greendayle/VRChat-benchmark-cache/blob/main/amd-generations-test/summary.md)
-
-Additional test Intel i9 11th gen vs 5800x3d
-
-[Read here](https://github.com/Greendayle/VRChat-benchmark-cache/blob/main/intel-11th-vs-x3d/intel11-summary.md)
-
-From those 2 tests we can extract one datapoint which is directly comparable:
-
-![plot](./img/multi_processor_comparison.png)
