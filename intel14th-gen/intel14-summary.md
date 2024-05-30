@@ -39,11 +39,11 @@ i7-14700k average CPU frametimes: 1.71+-0.12 ms, 95 percentile: 1.90 ms, 99 perc
 i7-14700k average CPU FPS: 584.07+-30.12 FPS, 95 percentile: 526.32 FPS, 99 percentile: 526.32 FPS
 
 
-![plot](./img/AVP_World_barplot.png)
+![plot](./img/AVP_barplot.png)
 
-![plot](./img/AVP_World_boxplot.png)
+![plot](./img/AVP_boxplot.png)
 
-![plot](./img/AVP_World_histogram.png)
+![plot](./img/AVP_histogram.png)
 
 
 ## Avatar Museum 7
@@ -70,11 +70,11 @@ i7-14700k average CPU FPS: 106.84+-22.33 FPS, 95 percentile: 83.33 FPS, 99 perce
 
 
 
-![plot](./img/Avatar-Museum-7_barplot.png)
+![plot](./img/AM7_barplot.png)
 
-![plot](./img/Avatar-Museum-7_boxplot.png)
+![plot](./img/AM7_boxplot.png)
 
-![plot](./img/Avatar-Museum-7_histogram.png)
+![plot](./img/AM7_histogram.png)
 
 ## Train Hell
 
